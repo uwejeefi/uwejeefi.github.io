@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://uwejeefi.github.io/HRd/sitemap_index.txt
+Sitemap: https://uwejeefi.github.io/WjC/sitemap_index.txt
+Sitemap: https://uwejeefi.github.io/paS/sitemap_index.txt
+Sitemap: https://uwejeefi.github.io/tZD/sitemap_index.txt
